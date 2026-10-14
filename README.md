@@ -1,4 +1,4 @@
-# 🐻 TCT-Bot Legal Center
+# TCT-Bot Legal Center
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
